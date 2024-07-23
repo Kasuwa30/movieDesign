@@ -18,9 +18,7 @@ body{
     color: white;
     font-family: "Sen", sans-serif;
 
-}
 
-.logo-container{
     flex: 1;
     
 }
@@ -257,6 +255,6 @@ margin-bottom: 40px;
 
 @media only screen and (max-width: 940px){
     .menu-container{
-        display: none;
+        di
     }
 }
